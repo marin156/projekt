@@ -11,7 +11,7 @@ First, make sure you have **Node.js** (npm) installed.
 ### Clone the app
 
 ```
-git clone https://github.com/ilovric00/react-intro.git
+git clone https://github.com/marin156/etrgovina.git
 ```
 
 ### Checkout to simple-react-example
